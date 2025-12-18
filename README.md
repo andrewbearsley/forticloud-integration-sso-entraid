@@ -46,13 +46,6 @@ Map Entra ID groups to FortiCloud permission profiles in External IdP roles.
 
 Sign out of FortiCloud, then sign in using the Microsoft SSO option.
 
-## Troubleshooting
-
-- Verify SAML URLs match exactly
-- Check attribute mappings in Entra ID
-- Review FortiCloud audit logs
-- Ensure users are assigned to the Enterprise Application
-
 ## Reference
 
 [Official Documentation](https://docs.fortinet.com/document/forticloud/25.4.a/identity-access-management-iam/113951/configuring-external-idp#EntraID)
